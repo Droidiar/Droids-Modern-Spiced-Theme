@@ -1,0 +1,14 @@
+{
+  "name": "Droid's Modern Spiced Theme",
+  "description": "A theme made by a Droid! Isn't that cool?",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "usercss": "user.css",
+  "schemes": "color.ini",
+  "authors": [
+    {
+      "name": "Droidiar",
+      "url": "https://github.com/Droidiar"
+    }
+  ]
+}
